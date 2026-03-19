@@ -1,6 +1,6 @@
 # Welcome to my Notes Management App
 
-## Project info
+## Project info details
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
