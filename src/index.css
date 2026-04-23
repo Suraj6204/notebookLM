@@ -14,10 +14,10 @@
 @layer base {
   :root {
     /* Warm cream background palette */
-    --background: 40 33% 98%;
+    --background: 40 33% 97%;
     --foreground: 220 20% 15%;
 
-    --card: 40 25% 99%;
+    --card: 40 25% 98%;
     --card-foreground: 220 20% 15%;
 
     --popover: 40 25% 99%;
